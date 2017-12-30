@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">rma15-16593</string>
+    <string name="web_page_label">Web stranica:</string>
+    <string name="genre_label">Zanr:</string>
+    <string name="biography_label">Biografija:</string>
+    <string name="top_5_songs_label">Top 5 pjesama</string>
+    <string name="find_button_text">Pretraga</string>
+    <string name="similar_musicians">Slicni muzicari</string>
+    <string name="similar_musicians_label">Slicni muzicari</string>
+    <string name="spotify_page">Spotify stranica:</string>
+    <string name="popularity">Spotify popularnost:</string>
+    <string name="spotify_followers">Spotify followers:</string>
+    <string name="albums_button_text">Albumi</string>
+</resources>

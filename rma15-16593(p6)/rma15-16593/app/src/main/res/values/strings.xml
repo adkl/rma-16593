@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">rma15-16593</string>
+    <string name="web_page_label">Web page:</string>
+    <string name="genre_label">Genre:</string>
+    <string name="biography_label">Biography:</string>
+    <string name="top_5_songs_label">Top Songs</string>
+    <string name="find_button_text">Search</string>
+    <string name="similar_musicians_label">Similar musicians</string>
+    <string name="spotify_page">Spotify page:</string>
+    <string name="popularity">Spotify popularity:</string>
+    <string name="spotify_followers">Spotify followers:</string>
+    <string name="albums_button_text">Albums</string>
+</resources>
